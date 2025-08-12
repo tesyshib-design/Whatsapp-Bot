@@ -1,0 +1,9 @@
+# Folder dependensi Node.js
+node_modules
+
+# Folder sesi WhatsApp, berisi info login rahasia!
+session
+
+# File log atau debug
+*.log
+npm-debug.log
